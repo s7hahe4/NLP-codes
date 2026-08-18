@@ -1,0 +1,302 @@
+[
+  {
+    "text": "i need to find a new babysitter",
+    "label": 42,
+    "entropy": 4.197984218597412,
+    "prediction": 16
+  },
+  {
+    "text": "report outage to my electric provider",
+    "label": 42,
+    "entropy": 4.170419692993164,
+    "prediction": 131
+  },
+  {
+    "text": "what supplies do i need to clean my car",
+    "label": 42,
+    "entropy": 4.116719722747803,
+    "prediction": 42
+  },
+  {
+    "text": "find out what supplies i am missing and will need on my upcoming camping trip",
+    "label": 42,
+    "entropy": 3.9741621017456055,
+    "prediction": 113
+  },
+  {
+    "text": "request a refund on the car wax i bought yesterday",
+    "label": 42,
+    "entropy": 3.9225921630859375,
+    "prediction": 109
+  },
+  {
+    "text": "what's that smell",
+    "label": 42,
+    "entropy": 3.887820243835449,
+    "prediction": 42
+  },
+  {
+    "text": "what do you do if you can't stop vomiting",
+    "label": 42,
+    "entropy": 3.8517518043518066,
+    "prediction": 147
+  },
+  {
+    "text": "i have a rash, what can i use for it",
+    "label": 42,
+    "entropy": 3.846679925918579,
+    "prediction": 42
+  },
+  {
+    "text": "fold my hand",
+    "label": 42,
+    "entropy": 3.83091139793396,
+    "prediction": 10
+  },
+  {
+    "text": "please book another boat for this weekends trip",
+    "label": 42,
+    "entropy": 3.7736454010009766,
+    "prediction": 40
+  },
+  {
+    "text": "i am looking for a suit for work",
+    "label": 42,
+    "entropy": 3.747382640838623,
+    "prediction": 42
+  },
+  {
+    "text": "fun gift ideas to give to grandparents",
+    "label": 42,
+    "entropy": 3.6865572929382324,
+    "prediction": 129
+  },
+  {
+    "text": "what should you do if your laundry machine is making a high pitched whine",
+    "label": 42,
+    "entropy": 3.6766610145568848,
+    "prediction": 36
+  },
+  {
+    "text": "i'd like to renew my subscription to playboy",
+    "label": 42,
+    "entropy": 3.6761040687561035,
+    "prediction": 20
+  },
+  {
+    "text": "what do i put on my feet",
+    "label": 42,
+    "entropy": 3.668693780899048,
+    "prediction": 42
+  },
+  {
+    "text": "can you really get arrested for yelling fire in a crowded theater",
+    "label": 42,
+    "entropy": 3.667752742767334,
+    "prediction": 42
+  },
+  {
+    "text": "fill up my water bottle for the gym",
+    "label": 42,
+    "entropy": 3.6563756465911865,
+    "prediction": 110
+  },
+  {
+    "text": "can i summon a demon using just an ouija board",
+    "label": 42,
+    "entropy": 3.6422641277313232,
+    "prediction": 42
+  },
+  {
+    "text": "i appeciate it",
+    "label": 124,
+    "entropy": 3.6292014122009277,
+    "prediction": 6
+  },
+  {
+    "text": "tell me what my current eyeglasses prescription is",
+    "label": 42,
+    "entropy": 3.6281919479370117,
+    "prediction": 1
+  },
+  {
+    "text": "i don't remember buying this",
+    "label": 70,
+    "entropy": 3.5962510108947754,
+    "prediction": 53
+  },
+  {
+    "text": "tell fred that i don't have his guitar",
+    "label": 26,
+    "entropy": 3.594857692718506,
+    "prediction": 42
+  },
+  {
+    "text": "create a for-while loop that continues 10 times",
+    "label": 42,
+    "entropy": 3.5875749588012695,
+    "prediction": 42
+  },
+  {
+    "text": "put words on the paper about what you want",
+    "label": 42,
+    "entropy": 3.5627694129943848,
+    "prediction": 61
+  },
+  {
+    "text": "tell me where to send my resume in order to get a job at delta airlines",
+    "label": 42,
+    "entropy": 3.5620901584625244,
+    "prediction": 42
+  },
+  {
+    "text": "call the grocery store and get their operational hours",
+    "label": 42,
+    "entropy": 3.555177927017212,
+    "prediction": 102
+  },
+  {
+    "text": "find out how i can best clip my dog's nails",
+    "label": 42,
+    "entropy": 3.540292501449585,
+    "prediction": 42
+  },
+  {
+    "text": "find a credit counseling service for me on the web",
+    "label": 42,
+    "entropy": 3.5314035415649414,
+    "prediction": 28
+  },
+  {
+    "text": "explain how to reduce my debt burden",
+    "label": 42,
+    "entropy": 3.528904438018799,
+    "prediction": 42
+  },
+  {
+    "text": "what should you do if you can't be bothered to get out of bed",
+    "label": 42,
+    "entropy": 3.522474765777588,
+    "prediction": 114
+  },
+  {
+    "text": "what is the warranty on my microwave",
+    "label": 42,
+    "entropy": 3.5206100940704346,
+    "prediction": 68
+  },
+  {
+    "text": "what should i take for nausea",
+    "label": 42,
+    "entropy": 3.517510414123535,
+    "prediction": 46
+  },
+  {
+    "text": "i need to sign up for a new allstate plan",
+    "label": 64,
+    "entropy": 3.5023484230041504,
+    "prediction": 64
+  },
+  {
+    "text": "what is a normal resting heart rate",
+    "label": 42,
+    "entropy": 3.464198589324951,
+    "prediction": 42
+  },
+  {
+    "text": "i'd like to hire a wedding planner and need help finding one",
+    "label": 42,
+    "entropy": 3.4619832038879395,
+    "prediction": 16
+  },
+  {
+    "text": "may i finish washing then i give you please",
+    "label": 42,
+    "entropy": 3.452172040939331,
+    "prediction": 10
+  },
+  {
+    "text": "i need to find a black suit under $100",
+    "label": 42,
+    "entropy": 3.436789035797119,
+    "prediction": 42
+  },
+  {
+    "text": "start listening to me dictate a letter",
+    "label": 42,
+    "entropy": 3.4191479682922363,
+    "prediction": 61
+  },
+  {
+    "text": "what's the first thing you should do to wash your car",
+    "label": 42,
+    "entropy": 3.398247718811035,
+    "prediction": 131
+  },
+  {
+    "text": "i want to install new tiles in my kitchen",
+    "label": 42,
+    "entropy": 3.3937437534332275,
+    "prediction": 42
+  },
+  {
+    "text": "how can i repair a broken watch",
+    "label": 42,
+    "entropy": 3.3871004581451416,
+    "prediction": 2
+  },
+  {
+    "text": "why did negan return to his jail cell",
+    "label": 42,
+    "entropy": 3.3829660415649414,
+    "prediction": 42
+  },
+  {
+    "text": "check to see if i still have allergy medication",
+    "label": 42,
+    "entropy": 3.3767876625061035,
+    "prediction": 54
+  },
+  {
+    "text": "what's a good gift to get for your grandparents",
+    "label": 42,
+    "entropy": 3.3718721866607666,
+    "prediction": 124
+  },
+  {
+    "text": "i would like for you to start a biography on me",
+    "label": 42,
+    "entropy": 3.362839698791504,
+    "prediction": 53
+  },
+  {
+    "text": "this charge is bs",
+    "label": 70,
+    "entropy": 3.35368013381958,
+    "prediction": 70
+  },
+  {
+    "text": "i would like to change the name on my credit card account",
+    "label": 89,
+    "entropy": 3.3426942825317383,
+    "prediction": 144
+  },
+  {
+    "text": "can you enable subtitles",
+    "label": 42,
+    "entropy": 3.335895538330078,
+    "prediction": 42
+  },
+  {
+    "text": "yum, pulled pork tacos at the buffet",
+    "label": 0,
+    "entropy": 3.331080913543701,
+    "prediction": 46
+  },
+  {
+    "text": "look up ways for me to advance my job placement",
+    "label": 42,
+    "entropy": 3.32808518409729,
+    "prediction": 28
+  }
+]

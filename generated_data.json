@@ -1,0 +1,20 @@
+[
+  {"text": "I'm looking for someone to watch my kids in the evenings.", "label": 150, "logic": "SEMANTIC_SHIFT"},
+  {"text": "I need to monitor my home security system while I’m away.", "label": 150, "logic": "DOMAIN_GAP"},
+  {"text": "I want to notify the power company about a blackout.", "label": 150, "logic": "SEMANTIC_SHIFT"},
+  {"text": "My phone battery keeps draining too fast.", "label": 150, "logic": "DOMAIN_GAP"},
+  {"text": "What tools are required to wash a car properly?", "label": 150, "logic": "SEMANTIC_SHIFT"},
+  {"text": "What ingredients are needed to cook pasta?", "label": 150, "logic": "DOMAIN_GAP"},
+  {"text": "Help me make a checklist for my camping trip.", "label": 150, "logic": "SEMANTIC_SHIFT"},
+  {"text": "What hardware is required to build a gaming PC?", "label": 150, "logic": "DOMAIN_GAP"},
+  {"text": "I want to return a car wax product for a refund.", "label": 150, "logic": "SEMANTIC_SHIFT"},
+  {"text": "There’s a strange odor in my house, what could it be?", "label": 150, "logic": "SEMANTIC_SHIFT"},
+  {"text": "I keep throwing up, what remedies are available?", "label": 150, "logic": "SEMANTIC_SHIFT"},
+  {"text": "Why do people vomit in zero gravity?", "label": 150, "logic": "DOMAIN_GAP"},
+  {"text": "What treatments help relieve a skin rash?", "label": 150, "logic": "SEMANTIC_SHIFT"},
+  {"text": "How does human skin regenerate over time?", "label": 150, "logic": "DOMAIN_GAP"},
+  {"text": "I want to fold during this poker round.", "label": 150, "logic": "SEMANTIC_SHIFT"},
+  {"text": "I injured my hand and can’t bend my fingers.", "label": 150, "logic": "DOMAIN_GAP"},
+  {"text": "I need to reserve an additional boat for our trip.", "label": 150, "logic": "SEMANTIC_SHIFT"},
+  {"text": "What is the history of maritime trade routes?", "label": 150, "logic": "DOMAIN_GAP"}
+]

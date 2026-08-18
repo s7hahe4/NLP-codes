@@ -1,0 +1,1002 @@
+[
+{
+"text": "i need to schedule some time off",
+"label": 97,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "can i submit a pto request",
+"label": 97,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "help me book a vacation day",
+"label": 97,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "can you go on vacation with me",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is the best vacation movie",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "please say that again",
+"label": 13,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "could you repeat yourself",
+"label": 13,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what did you just say",
+"label": 13,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "say my name loudly",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "repeat after me i am a robot",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what time is it locally",
+"label": 4,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "can you check the current time",
+"label": 4,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "tell me the time right now",
+"label": 4,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "is time travel possible right now",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is the time complexity of this algorithm",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "book a flight from chicago to vegas on spirit",
+"label": 63,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "i need to buy a plane ticket for tuesday",
+"label": 63,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "reserve a spirit airlines flight to las vegas",
+"label": 63,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how do birds take flight so easily",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is the flight speed of an unladen swallow",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "throw the dice",
+"label": 92,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "roll a six sided die",
+"label": 92,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "give me a random dice roll",
+"label": 92,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "can you roll the window down",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how do you roll sushi",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "i missed that repeat it",
+"label": 13,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "say that one more time please",
+"label": 13,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "can you say it again",
+"label": 13,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "repeat this workout routine for 3 sets",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "is history going to repeat itself",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "toss a coin for me",
+"label": 33,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "is it heads or tails",
+"label": 33,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "flip a coin and tell me the result",
+"label": 33,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how much is a rare coin worth",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "flip the pancake in the pan",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "i need to cancel my booking",
+"label": 67,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "abort my dinner reservation",
+"label": 67,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "please drop my current reservation",
+"label": 67,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "cancel my subscription to the magazine",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "cancel culture is getting out of hand",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "is there a lot of traffic on the way to virginia",
+"label": 24,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how is the commute to virginia looking",
+"label": 24,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "check the road conditions for virginia",
+"label": 24,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how much web traffic does this site get",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "can you stop human trafficking in virginia",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "recommend a good mexican restaurant",
+"label": 46,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "where should i eat mexican food tonight",
+"label": 46,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "find me a place for mexican dinner",
+"label": 46,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how do i cook authentic mexican food at home",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is the history of mexican cuisine",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "can you locate my cellphone",
+"label": 81,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "where did i leave my phone",
+"label": 81,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "ring my phone so i can find it",
+"label": 81,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "who invented the first mobile phone",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is the best phone to buy",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "where can i get my tires rotated",
+"label": 131,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "i need a mechanic to check my tires",
+"label": 131,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "find a tire shop near me",
+"label": 131,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "i am so tired of this checking out process",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how do i check out a library book",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "convert ten dollars to gbp",
+"label": 38,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what is 10 usd in pounds",
+"label": 38,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "exchange rate for dollars to british pounds",
+"label": 38,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how many pounds does a 10 dollar bowling ball weigh",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "can you pound this nail for ten dollars",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how busy is cracker barrel at 5pm",
+"label": 102,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "is there a wait at cracker barrel right now",
+"label": 102,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "check the wait time for cracker barrel this evening",
+"label": 102,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "will the cracker barrel cheese go bad by five",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how do you make a cracker barrel from scratch",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is the interest rate on my credit card",
+"label": 132,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "tell me my card's apr",
+"label": 132,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "check the current apr for this card",
+"label": 132,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what does the acronym apr stand for in medical terms",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "would you say a greeting card is a good gift",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how many calories are in chicken parmesan",
+"label": 1,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "nutritional info for chicken parm",
+"label": 1,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what are the macros for chicken parmesan",
+"label": 1,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how do i cook chicken parmesan from scratch",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "which restaurant serves the best chicken parmesan",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "i would prefer to call you juan",
+"label": 55,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "your new name is juan",
+"label": 55,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "change your assistant name to juan",
+"label": 55,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "do you know anyone named juan",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how do you spell juan in spanish",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "i want to book time off for next week",
+"label": 97,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "submit a request for vacation days",
+"label": 97,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "can i take pto next week",
+"label": 97,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "schedule a meeting with my boss next week",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is a good vacation spot for next week",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "check if my mcdonalds reservation is confirmed",
+"label": 85,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "verify my booking at mcdonalds for 5",
+"label": 85,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "is my table for five at mcdonalds still booked",
+"label": 85,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how do i make a reservation on a native american reservation",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "can you reserve a spot in my heart",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "im not sure which one",
+"label": 121,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "i have no preference",
+"label": 121,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "either option works for me",
+"label": 121,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "it could be raining cats and dogs",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "either he goes or i go",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "show me the nutrition facts for eggs",
+"label": 1,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how much protein is in an egg",
+"label": 1,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "tell me the calories in eggs",
+"label": 1,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how do i hard boil eggs perfectly",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "which came first the chicken or the egg",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is my max credit limit on mastercard",
+"label": 41,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how much can i spend on this mastercard",
+"label": 41,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "check my mastercard credit limit",
+"label": 41,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what is the speed limit on mastercard avenue",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how do i push myself to the limit",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is the apr on this specific credit card",
+"label": 132,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "tell me the interest rate for my credit card",
+"label": 132,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how much is this card's apr",
+"label": 132,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what does a credit card look like",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "is april a good month to get a card",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "do i need shots to visit paris",
+"label": 52,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what vaccines are required for a trip to france",
+"label": 52,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "check travel vaccination requirements for paris",
+"label": 52,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what vaccinations do dogs need to travel",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "is paris a safe city for solo travelers",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is my current credit rating",
+"label": 69,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "check my equifax credit score",
+"label": 69,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "tell me my fico score",
+"label": 69,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what is the score of the credit union softball game",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how do i score a goal in soccer",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "is my table under steve confirmed at friendlys",
+"label": 85,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "check my friendlys reservation for steve",
+"label": 85,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "did my booking at friendlys go through",
+"label": 85,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "are you friendly with steve",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how do i verify my identity online",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "translate cow into spanish",
+"label": 61,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how do you say cow in spanish",
+"label": 61,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what is the spanish word for cow",
+"label": 61,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "do spanish people eat cow meat",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "why do cows moo",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "i need a new checkbook for my savings",
+"label": 127,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "order more personal checks for my account",
+"label": 127,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "can you request blank checks for my savings account",
+"label": 127,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "can you check if my savings account is hacked",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how do i checkmate in three moves",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "is yogurt a good substitute for sour cream",
+"label": 134,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "can i swap sour cream with yogurt in this recipe",
+"label": 134,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what can i use instead of sour cream",
+"label": 134,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how do i make yogurt from scratch",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "does sour cream go bad if left out",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "read my grocery list to me",
+"label": 43,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what items are on my shopping list",
+"label": 43,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "show me what i added to my list",
+"label": 43,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what is the best shopping mall near me",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how do i list an item for sale on ebay",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what time is it in peru",
+"label": 4,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "current time in the peruvian time zone",
+"label": 4,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "tell me the local time for peru",
+"label": 4,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what is the peruvian time zone called",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how long does it take to fly to peru",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "where do you suggest we eat dinner tonight",
+"label": 46,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "give me a dinner recommendation for this evening",
+"label": 46,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what are some good places for dinner today",
+"label": 46,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what does it mean to pick someone's brain",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "can i eat brain for dinner",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "is there a block on my visa card",
+"label": 2,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "why is my visa account frozen",
+"label": 2,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "find out why my visa card has a hold",
+"label": 2,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how do i hold my visa passport properly",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "why did my travel visa get denied",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how much pto have i used this year",
+"label": 148,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "check my vacation day balance",
+"label": 148,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how many days have i been off work",
+"label": 148,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how many days are left in this year",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "tell me the number of days it rained",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "speak to me in spanish",
+"label": 29,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "switch your language to spanish",
+"label": 29,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "change our conversation language to spanish",
+"label": 29,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "do you want to travel to spain",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how many people speak spanish in the world",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "transfer 1200 dollars from usaa to navy federal",
+"label": 133,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "move money between my usaa and navy fed accounts",
+"label": 133,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "make a 1200 dollar transfer to navy federal",
+"label": 133,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how many dollars does a navy uniform cost",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "is usaa a better bank than navy federal",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "please slow down your speech",
+"label": 119,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "speak a little slower",
+"label": 119,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "you are talking too quickly",
+"label": 119,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how fast can a cheetah run",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "is it bad to fast for three days",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "reset to factory default",
+"label": 88,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "restore your original settings",
+"label": 88,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "wipe data and factory reset",
+"label": 88,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what settings do i use to bake a cake",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "how do i open a factory in the city",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "set a 5pm alarm",
+"label": 83,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "wake me up at 5 in the evening",
+"label": 83,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "create an alarm for 5:00 pm",
+"label": 83,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "why is the car alarm going off",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is the most alarming news today",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what time does my flight arrive",
+"label": 80,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "check the estimated arrival for my plane",
+"label": 80,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "when is my flight supposed to land",
+"label": 80,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what is the eta for the pizza delivery",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "can you book a flight for my eta",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+}
+]

@@ -1,0 +1,32 @@
+﻿# Git ignore for NLP Research Code & Models
+
+# Large Model Weights and Checkpoints (Kept locally on disk)
+ad_cog_final_model/
+ad_cog_model/
+distilbert_baseline/
+models/
+results/
+augmented_train_dataset/
+high_density_dataset/
+generic_dataset/
+
+# Large binaries & archives
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.arrow
+*.zip
+*.tar.gz
+*.7z
+
+# Python cache & temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+tempCodeRunnerFile.py
+.ipynb_checkpoints/
+.DS_Store
+
+# Logs
+*.log

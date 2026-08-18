@@ -1,0 +1,252 @@
+[
+{
+"text": "how many centimeters are in an inch",
+"label": 31,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "change from imperial inches to metric cm",
+"label": 31,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what is the conversion rate for inches into centimeters",
+"label": 31,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "convert my old VHS tapes to digital format",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "convert my religious beliefs to buddhism",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "call me jim from now on",
+"label": 144,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "my preferred name is jim",
+"label": 144,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "everyone just calls me jim",
+"label": 144,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "i go by the grocery store on my way home",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "the file goes by the name of project_final.pdf",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "meaning of life the universe and everything",
+"label": 22,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "why do we exist in this universe",
+"label": 22,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "can you tell me the purpose of human existence",
+"label": 22,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what is the answer to question number four on the math test",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "is the existence of aliens confirmed by NASA",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "steps to configure direct deposit for my paycheck",
+"label": 108,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what is the process for enabling direct deposit",
+"label": 108,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "i need to route my paychecks directly to my bank",
+"label": 108,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how do i go about setting up a tent in the rain",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "i need to make a direct deposit of cash at the ATM",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "when is my next scheduled oil change due",
+"label": 123,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how many miles left until i should change the engine oil",
+"label": 123,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "tell me the interval for replacing my car's oil",
+"label": 123,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how long before i need to change my clothes for the party",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "can you get my essential oils changed at the store",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is my current FICO rating",
+"label": 69,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "can you tell me where my credit score stands",
+"label": 69,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "fetch my latest credit report score",
+"label": 69,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "my soccer game score is tied at two",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "the movie score is composed by hans zimmer",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "where do i check the points on my chase credit card",
+"label": 50,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "show me the cashback balance for my chase account",
+"label": 50,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "i want to view my chase card reward points",
+"label": 50,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how can i see my dog when he plays in the chase",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is the reward for catching the chase suspect",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "i have no knowledge regarding that topic",
+"label": 121,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "that is completely unfamiliar to me",
+"label": 121,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "i am clueless when it comes to that",
+"label": 121,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "i don't know anything about fixing car engines",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "i don't know anyone at this party",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is your official title",
+"label": 75,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "how are you classified or titled",
+"label": 75,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "tell me your job designation",
+"label": 75,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "what's the designation for this highway",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what is the architectural designation of this building",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "what time is my plane scheduled to touch down",
+"label": 80,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "check the arrival time for my flight",
+"label": 80,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "when does my flight arrive at the destination",
+"label": 80,
+"logic": "[LOGIC: SEMANTIC_SHIFT]"
+},
+{
+"text": "i gotta know when the bird will take flight",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+},
+{
+"text": "when will the land be ready for farming",
+"label": -1,
+"logic": "[LOGIC: DOMAIN_GAP]"
+}
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "text": "I'm looking for someone to watch my kids in the evenings.",
+        "label": 150,
+        "logic": "SEMANTIC_SHIFT",
+        "baseline_entropy": 2.6621084213256836
+    },
+    {
+        "text": "I need to monitor my home security system while I\u00e2\u20ac\u2122m away.",
+        "label": 150,
+        "logic": "DOMAIN_GAP",
+        "baseline_entropy": 3.0620667934417725
+    },
+    {
+        "text": "I want to notify the power company about a blackout.",
+        "label": 150,
+        "logic": "SEMANTIC_SHIFT",
+        "baseline_entropy": 3.122196912765503
+    },
+    {
+        "text": "Help me make a checklist for my camping trip.",
+        "label": 150,
+        "logic": "SEMANTIC_SHIFT",
+        "baseline_entropy": 3.0363101959228516
+    },
+    {
+        "text": "I want to return a car wax product for a refund.",
+        "label": 150,
+        "logic": "SEMANTIC_SHIFT",
+        "baseline_entropy": 2.2428998947143555
+    },
+    {
+        "text": "There\u00e2\u20ac\u2122s a strange odor in my house, what could it be?",
+        "label": 150,
+        "logic": "SEMANTIC_SHIFT",
+        "baseline_entropy": 3.778458595275879
+    },
+    {
+        "text": "I keep throwing up, what remedies are available?",
+        "label": 150,
+        "logic": "SEMANTIC_SHIFT",
+        "baseline_entropy": 4.259572505950928
+    },
+    {
+        "text": "I want to fold during this poker round.",
+        "label": 150,
+        "logic": "SEMANTIC_SHIFT",
+        "baseline_entropy": 2.7994112968444824
+    },
+    {
+        "text": "I injured my hand and can\u00e2\u20ac\u2122t bend my fingers.",
+        "label": 150,
+        "logic": "DOMAIN_GAP",
+        "baseline_entropy": 3.8068976402282715
+    },
+    {
+        "text": "I need to reserve an additional boat for our trip.",
+        "label": 150,
+        "logic": "SEMANTIC_SHIFT",
+        "baseline_entropy": 3.613593578338623
+    }
+]
